@@ -1,1 +1,1 @@
-# [go](https://dabinl1258.github.io/index/)
+# [go](https://dabinl1258.github.io/)
