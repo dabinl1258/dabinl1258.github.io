@@ -1,3 +1,3 @@
 # 임베디드
 
-* [pwm](atmega328)
+* [pwm](pwm)

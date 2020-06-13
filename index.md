@@ -17,6 +17,9 @@
 
 - [C++ Bulder](c++builder)
 
+- [Haskell](Haskell)
+
+- [Javascript](Javascript)
 usefull link
 
 [engineering mechanics](https://dabinl1258.github.io/engineering_mechanics_doc/)
