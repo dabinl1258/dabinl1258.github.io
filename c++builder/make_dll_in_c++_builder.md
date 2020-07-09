@@ -67,10 +67,10 @@ int main()
     FARPROC proc = GetProcAddress(hmodule,"sum");
     sum f = (sum)proc;
     
-    printf("%d + %d = %d \n ", 10 , 20 , f(10,20));
+    printf("%d + %d = %d \n ", 10 , 20 , f(10,20));   
     return 0;
 }
 ```
 
-LoadLibrary는 동적으로 dll을 탑제 하는 코드이다. HMODULE을 리턴한다. GetProcAddress에 HMODULE과 함수이름을 넣어서 함수의 주소를 가지고 온다. 이제 주소를 알아 내었으니 함수 포인터를 이용하여 실행한다. 이 방식으로 컴파일을 하면 링커 에러가 나올 일이 없다. 단 같은 디렉토리에 dll이 있어야 한다. 또 dll이름과 함수이름이 인자이기 때문에 런타임에서 사용자나 다른 스크립트에서 받아서 실행이 가능하다. 
+LoadLibrary는 동적으로 dll을 탑제 하는 코드이다. HMODULE을 리턴한다. GetProcAddress에 HMODULE과 함수이름을 넣어서 함수의 주소를 가지고 온다. 이제 주소를 알아 내었으니 함수 포인터를 이용하여 실행한다. 이 방식으로 컴파일을 하면 링커 에러가 나올 일이 없다. 단 같은 디렉토리에 dll이 있어야 한다. 또 dll이름과 함수이름이 인자이기 때문에 런타임에서 사용자나 다른 스크립트에서 받아서 실행이 가능하다.
 
