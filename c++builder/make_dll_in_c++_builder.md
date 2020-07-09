@@ -67,7 +67,7 @@ int main()
     FARPROC proc = GetProcAddress(hmodule,"sum");
     sum f = (sum)proc;
     
-    print("%d + %d = %d \n ", 10 , 20 , f(10,20));
+    printf("%d + %d = %d \n ", 10 , 20 , f(10,20));
     return 0;
 }
 ```
