@@ -8,6 +8,7 @@ tags:
   - LaTeX
 use_math: true
 ---
+
 # 대수학 : algebra
 
 $$
