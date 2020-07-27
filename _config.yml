@@ -33,6 +33,7 @@ github_username:  dabinl1258
 theme: minima
 plugins:
   - jekyll-feed
+  
 markdown: kramdown
 highlighter: rouge
 lsi: false
