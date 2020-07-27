@@ -3,7 +3,7 @@
 
 - [언어만들기](make_lang)
 
-- [수학](math)
+- [수학Math](math)
 
 - [embeded](embeded)
 
