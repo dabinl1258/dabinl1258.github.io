@@ -1,6 +1,8 @@
 # 대수학 : algebra
 
-
+$$
+a
+$$
 ---
 title: "Jekyll Github 블로그에 MathJax로 수학식 표시하기"
 tags:
