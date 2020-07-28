@@ -28,6 +28,8 @@ github_username:  dabinl1258
 
 # Build settings
 theme: minima
+minima :
+  skin : dark
 plugins:
   - jekyll-feed
 
