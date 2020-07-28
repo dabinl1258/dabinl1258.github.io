@@ -1,6 +1,3 @@
----
-layout: post
----
 # 다빈의 페이지
 - [C lang](c)
 
