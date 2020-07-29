@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "제목"
 tags: [태그]
 use_math: true
