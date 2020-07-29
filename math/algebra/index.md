@@ -4,6 +4,7 @@ title: "제목"
 tags: [태그]
 use_math: true
 comments: true
+mathjax : true
 ---
 
 # 대수학 : algebra
