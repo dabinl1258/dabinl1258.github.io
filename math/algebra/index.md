@@ -1,7 +1,8 @@
 ---
-layout: post 
-title: "제목"
-tags: [태그]
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2020-08-01 01:33:41 +0900
+categories: jekyll update
 usemathjax: true
 ---
 
