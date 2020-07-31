@@ -1,6 +1,6 @@
 ---
 layout: post
-usemathjax: true
+_usemathjax: true
 ---
 
 # 다빈의 페이지
