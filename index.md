@@ -24,5 +24,5 @@ usefull link
 
 [engineering mechanics](https://dabinl1258.github.io/engineering_mechanics_doc/)
 
-
+$A$
 ![alt text](main.png)
