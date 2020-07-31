@@ -1,7 +1,3 @@
----
-layout: post
-_usemathjax: true
----
 
 # 다빈의 페이지
 - [C lang](c)
