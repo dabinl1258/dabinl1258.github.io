@@ -25,7 +25,6 @@ twitter_username: wolp21
 github_username:  daibn
 
 # Build settings
-markdown: kramdown
 theme : "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
