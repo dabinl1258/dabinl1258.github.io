@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+[카테고리 별로 보기 ](caterories)
