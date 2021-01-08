@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-[카테고리 별로 보기 ](caterories)
+[카테고리 별로 보기 ](2021/01/08/categories)
