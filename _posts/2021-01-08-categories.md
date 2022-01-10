@@ -1,3 +1,3 @@
 ---
-layout: categories
+layout: category
 ---
