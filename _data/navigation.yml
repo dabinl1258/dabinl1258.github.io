@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "다빈 깃"
-    url: https://github.com/dabinl1258/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
