@@ -29,6 +29,7 @@ github_username:  dabinl1258
 
 # Build settings
 theme: minimal-mistakes-jekyll
+remote_theme           : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
