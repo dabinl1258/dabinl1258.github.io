@@ -1,8 +1,8 @@
----
+-
 layout: posts
 title: Jekyll 
-data: yyyy-mm-dd
-categories: custom pls
+data: 2022-10-13
+categories: nvim
 ---
-# Jekyll 설치 하는 법
-Jekyll을 설치 하기 위해서는 Ruby 2.5버전이 필요하다.
+# Windows에서의 nvim vimrc 위치
+Windows에서는 ~/.config/nvim/init.vim파일을 수정해 주면 된다.
