@@ -6,7 +6,7 @@ categories: vim
 ---
 
 # Vim 사용법
-
+처
 ## Vim 커서이동
 
 ###  상하좌우 이동
