@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Jekyll 
+title: Powershell start script
 date: 2023-01-06
 categories: powershell shell 
 ---
