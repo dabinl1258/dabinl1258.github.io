@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Jekyll 
-data: 2023-01-06
+date: 2023-01-06
 categories: powershell shell 
 ---
 

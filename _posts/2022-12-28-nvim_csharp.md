@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: nvim csharp
-data: 2022-12-28
+date: 2022-12-28
 categories: nvim vim c#
 ---
 

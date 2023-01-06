@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Vim 사용법 
-data: 2023-01-02 
+date: 2023-01-02 
 categories: vim
 
 ---

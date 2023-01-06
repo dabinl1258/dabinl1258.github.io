@@ -1,7 +1,7 @@
 -
 layout: posts
 title: Jekyll 
-data: 2022-10-13
+date: 2022-10-13
 categories: nvim
 ---
 # Windows에서의 nvim vimrc 위치
