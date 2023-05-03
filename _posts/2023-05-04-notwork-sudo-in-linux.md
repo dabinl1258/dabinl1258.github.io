@@ -12,6 +12,6 @@ categories: termux linux
 
 따라서 /etc/sudoers를 편집하여 해결 하면 된다. 
 일반 적으로 앞에 ALL 대신 하여 그룹명을 써야 하지만 TERMUX 문제인지 필자는 이렇게 해결 하였다.
-````
+```bash
 ALL ALL=(ALL:ALL) ALL 
-````
+```
