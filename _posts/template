@@ -1,6 +1,6 @@
 ---
 layout: posts
 title: Jekyll 
-date: yyyy-mm-dd
+date: yyyy-mm-dd hh:mm:ss +0900
 categories: custom pls
----
+--
