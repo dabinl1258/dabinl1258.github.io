@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Jeykll 블로그 글쓰는 법 
-date: 2023-05-06 00:01:30 +0900
+date: 2023-05-06 00:01:30+0900
 categories: jekyll
 ---
 
@@ -23,7 +23,7 @@ post파일의 경우 상단에 다음과 같은 속성이 위치 한다.
 ---
 layout: posts
 title: 재목
-date: yyyy-mm-dd hh:mm:ss +0900
+date: yyyy-mm-dd hh:mm:ss+0900
 cartegories: tag1 tag2
 ---
 
