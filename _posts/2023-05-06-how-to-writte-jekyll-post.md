@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Jeykll 블로그 글쓰는 법 
-date: 2023-05-06 00:02:00 +0900
+date: 2023-05-06 00:01:30 +0900
 categories: jekyll
 ---
 
