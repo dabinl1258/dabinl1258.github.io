@@ -3,7 +3,7 @@ layout: posts
 title: NetworkManager Restart
 date: 2023:05:06 12:00:00+0900
 categories: arch linux system
---
+---
 
 ```bash
 sudo systemctl restart NetworkManager.service 
