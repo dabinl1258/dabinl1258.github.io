@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: NetworkManager Restart
-date: 2023:05:06 12:00:00+0900
+date: 2023:05:06
 categories: arch linux system
 ---
 

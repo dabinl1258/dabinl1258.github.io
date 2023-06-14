@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 리눅스에서 sudo가 안될때 해결 법
-date: 2023-05-04 00:09:00+0900
+date: 2023-05-04 00:09:00+0000
 categories: termux linux
 ---
 
