@@ -1,0 +1,6 @@
+{signal: [
+  {name: 'PWM 100%', wave: '1.....'},
+  {name: 'PWM 75%' , wave: '1...0.'},
+  {name: 'PWM 50%' , wave: '1..0..'},
+  {name: 'PWM 25%' , wave: '1.0...'},
+]}
