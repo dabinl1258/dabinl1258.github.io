@@ -1,11 +1,11 @@
 ---
 layout: posts
-title: verilator 설치  
+title: verilator 설치 cmake
 date: 2023-06-28 00:00:00
 categories: verilog systemC c++ cmake ninja
 ---
 
-verilator는 SystemVerilog를 시뮬레이션 하기 위한 소프트웨어다.
+현제 cmake는 공식 적으로 윈도우만 지원을 한다.
 
 verilotor를 설치하는 방법에는 2가지가 있다.
 
@@ -65,6 +65,4 @@ cmake --build . --config Release # ninja
 cmake --install .
 ```
 
-단 지금 현재 cmake 빌드의 경우 
-
-
+단 지금 현재 cmake 빌드의 경우 verilator_bin을 생성 못해서 실사용 하지는 못하는 문제가 있다.
