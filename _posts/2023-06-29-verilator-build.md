@@ -1,4 +1,4 @@
-```yaml
+```
 layout: posts
 title: verilator make 빌드  
 date: 2023-06-29 00:00:00
@@ -42,8 +42,16 @@ configure 스크립트를 실행한다.
 ./configure
 ```
 
-build를 진행한다.
+build를 진행한다. -j  $(nproc)은 멀티코어를 100% 활용하는 옵션이다.
+
+CXXFLAGS='-std=c++17'은 c++17버전으로 컴파일 하는 욥션이다.
 
 ```bash
-make -j `nproc`
+make -j `nproc` CXXFLAGS='-std=c++17'
+```
+
+설치 한다.
+
+```bash
+make install 
 ```
