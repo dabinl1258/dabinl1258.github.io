@@ -1,9 +1,9 @@
-```
+---
 layout: posts
 title: verilator make 빌드  
 date: 2023-06-29 00:00:00
 categories: verilog systemC c++ make verilator
-```
+---
 
 verilator 빌드와 설치에 대한 방법이다.
 
