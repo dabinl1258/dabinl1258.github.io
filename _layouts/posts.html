@@ -4,6 +4,16 @@ layout: archive
 
 {{ content }}
 
+{% if page.tags %}
+  {% for tag in page.tags %}
+    {% if site.data.tags contains tag %}
+      <a href="/posts/?tag={{ tag }}">
+        <span class="tag">{{ site.data.format[tag] }}</span>
+      </a>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -14,15 +24,7 @@ layout: archive
     </li>
   {% endfor %}
 </ul>
-<h1> hello {{page.to_json()}}
-{% assign supers = "superqweqweqwe"%}
-{% assign pagestr = page.to_s()% }
-{{pagestr}}
 
-</h1>
-
-<h2> hello page :  {{page}}</h1>
-{{supers}}
 
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
