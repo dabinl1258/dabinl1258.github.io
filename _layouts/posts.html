@@ -16,9 +16,12 @@ layout: archive
 </ul>
 
 {% if page.tags %}
+  <h2>there is tag</h2>
   {% for tag in page.tags %}
     <span class="tag">{{ tag }}</span>
   {% endfor %}
+{% else %}
+<h2> notag </h2>
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
