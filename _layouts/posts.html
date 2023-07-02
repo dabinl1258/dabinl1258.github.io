@@ -14,7 +14,7 @@ layout: archive
     </li>
   {% endfor %}
 </ul>
-<h1> hello {{page}}</h1>
+<h1> hello {{page.to_json}}</h1>
 {% if page.tags %}
   <h2>there is tag</h2>
   {% for tag in page.tags %}
