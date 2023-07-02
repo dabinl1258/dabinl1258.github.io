@@ -3,7 +3,7 @@
 layout: posts
 title: Docker gui같이 쓰기
 date: 2023-06-23 00:00:00
-categories:  docker log gui
+tags :  [docker, log, gui]
 ---
 
 

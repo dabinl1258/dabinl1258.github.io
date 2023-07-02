@@ -2,7 +2,7 @@
 layout: posts
 title: Change Debian Apt Server
 date: 2023-01-06
-categories: linux debian
+categories: [linux, debian]
 ---
 
 # 데비안 Apt 저장소 변경

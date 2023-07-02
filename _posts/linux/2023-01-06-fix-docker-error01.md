@@ -2,7 +2,7 @@
 layout: posts
 title: docker  Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?.
 date: 2023-01-06
-categories: docker linux debian
+tag: [docker, linux, debian]
 ---
 
 # docker: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?.

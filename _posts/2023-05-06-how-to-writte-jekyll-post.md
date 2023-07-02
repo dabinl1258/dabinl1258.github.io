@@ -2,7 +2,7 @@
 layout: posts
 title: Jeykll 블로그 글쓰는 법 
 date: 2023-05-06 00:01:30
-tag : jekyll
+tags : [jekyll]
 ---
 
 jekyll에 post를 쓰는 방법은 _posts경로 아래에 글을 쓰는 방법이 있다.

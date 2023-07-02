@@ -2,7 +2,7 @@
 layout: posts
 title: IceStudio 
 date: 2023-02-10
-categories: FPGA ICE40 verilog
+tags: [FPGA, ICE40, verilog]
 ---
 
 # IceStuio

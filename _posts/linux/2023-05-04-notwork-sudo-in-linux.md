@@ -2,7 +2,7 @@
 layout: posts
 title: 리눅스에서 sudo가 안될때 해결 법
 date: 2023-05-04 00:09:00
-categories: termux linux
+tag: [termux, linux]
 ---
 
 간혹 리눅스에서 sudo를 치고 password를 입력 해도 sudoer를 확인해 
