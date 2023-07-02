@@ -8,7 +8,7 @@ layout: archive
   {% for tag in page.tags %}
     {% if site.data.tags contains tag %}
       <a href="/posts/?tag={{ tag }}">
-        <span class="tag">{{ site.data.format[tag] }}</span>
+        <span class="tag">{{ tag }}</span>
       </a>
     {% endif %}
   {% endfor %}
