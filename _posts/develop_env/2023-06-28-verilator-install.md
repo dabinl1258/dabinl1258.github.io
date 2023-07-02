@@ -2,7 +2,7 @@
 layout: posts
 title: verilator 설치 cmake
 date: 2023-06-28 00:00:00
-categories: verilog systemC c++ cmake ninja
+tags : verilog systemC c++ cmake ninja
 ---
 
 현제 cmake는 공식 적으로 윈도우만 지원을 한다.
