@@ -3,16 +3,26 @@ layout: archive
 ---
 
 {{ content }}
-{{page.tags}}
-{% if page.tags %}
-  {% for tag in page.tags %}
-    {% if site.data.tags contains tag %}
-      <a href="/posts/?tag={{ tag }}">
-        <span class="tag">{{ tag }}</span>
-      </a>
-    {% endif %}
+
+{% assign tags_max = 0 %}
+{% for tag in page.tags %}
+  {% if tag[1].size > tags_max %}
+    {% assign tags_max = tag[1].size %}
+  {% endif %}
+{% endfor %}
+<ul class="taxonomy__index">
+  {% for i in (1..tags_max) reversed %}
+    {% for tag in page.tags %}
+      {% if tag[1].size == i %}
+        <li>
+          <a href="#{{ tag[0] | slugify }}">
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
-{% endif %}
+</ul>
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
