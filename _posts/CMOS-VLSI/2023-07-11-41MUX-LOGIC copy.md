@@ -1,0 +1,25 @@
+---
+layout: posts
+title: 41MUX LOGIC
+date: 2023-07-10
+tags : [CMOS-VLSI]
+---
+
+# Circuit
+
+![41MUX-LOGIC-SCH](/assets/img/CMOS-VLSI/41MUX-LOGIC/41MUX-LOGIC-SCH.png)
+
+# Symbol
+
+![41MUX-LOGIC-SYM](/assets/img/CMOS-VLSI/41MUX-LOGIC/41MUX-LOGIC-SYM.png)
+
+# Test
+![41MUX-LOGIC-TEST](/assets/img/CMOS-VLSI/41MUX-LOGIC/41MUX-LOGIC-TEST.png)
+
+
+# Simulation
+![41MUX-LOGIC-SIM](/assets/img/CMOS-VLSI/41MUX-LOGIC/41MUX-LOGIC-SIM.png)
+
+# Layout
+
+![41MUX-LOGIC-LAY](/assets/img/CMOS-VLSI/41MUX-LOGIC/41MUX-LOGIC-LAY.png)
