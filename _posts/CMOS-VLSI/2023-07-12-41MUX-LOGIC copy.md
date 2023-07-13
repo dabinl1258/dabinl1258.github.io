@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 41MUX LOGIC
-date: 2023-07-10
+date: 2023-07-12
 tags : [CMOS-VLSI]
 ---
 
