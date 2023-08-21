@@ -1,0 +1,9 @@
+{signal: [
+  {name: 'clk', wave :'p..........', period: 0.1},
+  {name: 'signal', wave : '0..1..0....'},
+  {name: 'Delay1', wave :'0..1..0....'},
+  {name: 'Delay2', wave :'0...1..0...'},
+  {name: 'Falling Edge Detect ', wave :'0.....10...'},
+  {name: 'Rising Edge Detect ', wave :'0..10......'},
+  {name: 'Both Edge Detect ', wave :'0..10.10...'},
+]}
