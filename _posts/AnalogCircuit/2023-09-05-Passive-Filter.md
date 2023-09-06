@@ -14,7 +14,7 @@ $$ Z_C = \frac{1}{2\pi fC}$$
 
 Capacitor에서는 고주파 통과
 
-$$ Z_L = {2\pi fC}$$
+$$ Z_L = {2\pi fL}$$
 
 Inductor에서는 저주파 통과
 
